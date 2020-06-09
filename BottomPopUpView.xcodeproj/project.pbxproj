@@ -21,6 +21,9 @@
 		54B2699E248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B2699C248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.swift */; };
 		54B2699F248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 54B2699D248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.xib */; };
 		54B269A1248FBBDA00B3DD9E /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B269A0248FBBDA00B3DD9E /* UIImage.swift */; };
+		54B269A6248FC4D000B3DD9E /* 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A3248FC4D000B3DD9E /* 3.gif */; };
+		54B269A7248FC4D000B3DD9E /* 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A4248FC4D000B3DD9E /* 2.gif */; };
+		54B269A8248FC4D000B3DD9E /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A5248FC4D000B3DD9E /* 1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +45,9 @@
 		54B2699C248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ExampleAirPodsTableViewCell.swift; path = BottomPopUpView/ExampleAirPodsTableViewCell.swift; sourceTree = SOURCE_ROOT; };
 		54B2699D248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ExampleAirPodsTableViewCell.xib; path = BottomPopUpView/ExampleAirPodsTableViewCell.xib; sourceTree = SOURCE_ROOT; };
 		54B269A0248FBBDA00B3DD9E /* UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImage.swift; sourceTree = "<group>"; };
+		54B269A3248FC4D000B3DD9E /* 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 3.gif; sourceTree = "<group>"; };
+		54B269A4248FC4D000B3DD9E /* 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 2.gif; sourceTree = "<group>"; };
+		54B269A5248FC4D000B3DD9E /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +99,7 @@
 		54B26981248F6D0600B3DD9E /* BottomPopUpViewExamples */ = {
 			isa = PBXGroup;
 			children = (
+				54B269A2248FC4C000B3DD9E /* Screenshots */,
 				54B2699B248FA9B000B3DD9E /* ExampleAirPodsTableViewCell */,
 				54B26994248FA06300B3DD9E /* ExampleUITableViewCell */,
 				54B26982248F6D0600B3DD9E /* AppDelegate.swift */,
@@ -124,6 +131,16 @@
 				54B2699D248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.xib */,
 			);
 			path = ExampleAirPodsTableViewCell;
+			sourceTree = "<group>";
+		};
+		54B269A2248FC4C000B3DD9E /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				54B269A5248FC4D000B3DD9E /* 1.gif */,
+				54B269A4248FC4D000B3DD9E /* 2.gif */,
+				54B269A3248FC4D000B3DD9E /* 3.gif */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,7 +245,10 @@
 				54B26998248FA07F00B3DD9E /* ExampleUITableViewCell.xib in Resources */,
 				54B2698F248F6D0700B3DD9E /* LaunchScreen.storyboard in Resources */,
 				54B2698C248F6D0700B3DD9E /* Assets.xcassets in Resources */,
+				54B269A7248FC4D000B3DD9E /* 2.gif in Resources */,
+				54B269A6248FC4D000B3DD9E /* 3.gif in Resources */,
 				54B2699F248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.xib in Resources */,
+				54B269A8248FC4D000B3DD9E /* 1.gif in Resources */,
 				54B2699A248FA7DA00B3DD9E /* airPods.gif in Resources */,
 				54B2698A248F6D0600B3DD9E /* Main.storyboard in Resources */,
 			);
