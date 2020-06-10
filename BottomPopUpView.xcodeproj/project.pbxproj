@@ -24,6 +24,7 @@
 		54B269A6248FC4D000B3DD9E /* 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A3248FC4D000B3DD9E /* 3.gif */; };
 		54B269A7248FC4D000B3DD9E /* 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A4248FC4D000B3DD9E /* 2.gif */; };
 		54B269A8248FC4D000B3DD9E /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A5248FC4D000B3DD9E /* 1.gif */; };
+		54B269A92490A6E800B3DD9E /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B269A0248FBBDA00B3DD9E /* UIImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -262,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				54B2697B248F5BB300B3DD9E /* BottomPopUpView.swift in Sources */,
+				54B269A92490A6E800B3DD9E /* UIImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
