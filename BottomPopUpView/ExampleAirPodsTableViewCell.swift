@@ -28,7 +28,7 @@ class ExampleAirPodsTableViewCell: UITableViewCell {
 }
 import UIKit
 
-extension UIImage {
+public extension UIImage {
     
     public class func gifImageWithData(_ data: Data) -> UIImage? {
         guard let source = CGImageSourceCreateWithData(data as CFData, nil) else {
