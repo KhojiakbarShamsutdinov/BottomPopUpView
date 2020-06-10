@@ -40,9 +40,6 @@ class ViewController: UIViewController {
     }
     
     @IBAction func airPods(_ sender: Any) {
-        /* NOTE: TO MAKE AN ANIMATION WORK GO TO THE ExampleAirPodsTableViewCell.swift file and UNCOMMENT awakeFromNib content */
-        
-        
         let bottomPopUpView = BottomPopUpView(wrapperContentHeight: 400)/* Create an instance of BottomPopUpView with height */
         
         self.isAirPods = true/* Just for testing case, nevermind */

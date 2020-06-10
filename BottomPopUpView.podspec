@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "BottomPopUpView"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.5"
   spec.summary      = "A CocoaPods library written in Swift"
 
   # This description is used to generate tags and improve search results.
