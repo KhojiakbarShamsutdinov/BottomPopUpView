@@ -20,11 +20,9 @@
 		54B2699A248FA7DA00B3DD9E /* airPods.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B26999248FA7DA00B3DD9E /* airPods.gif */; };
 		54B2699E248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B2699C248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.swift */; };
 		54B2699F248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 54B2699D248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.xib */; };
-		54B269A1248FBBDA00B3DD9E /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B269A0248FBBDA00B3DD9E /* UIImage.swift */; };
 		54B269A6248FC4D000B3DD9E /* 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A3248FC4D000B3DD9E /* 3.gif */; };
 		54B269A7248FC4D000B3DD9E /* 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A4248FC4D000B3DD9E /* 2.gif */; };
 		54B269A8248FC4D000B3DD9E /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 54B269A5248FC4D000B3DD9E /* 1.gif */; };
-		54B269A92490A6E800B3DD9E /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B269A0248FBBDA00B3DD9E /* UIImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,7 +43,6 @@
 		54B26999248FA7DA00B3DD9E /* airPods.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = airPods.gif; sourceTree = "<group>"; };
 		54B2699C248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ExampleAirPodsTableViewCell.swift; path = BottomPopUpView/ExampleAirPodsTableViewCell.swift; sourceTree = SOURCE_ROOT; };
 		54B2699D248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ExampleAirPodsTableViewCell.xib; path = BottomPopUpView/ExampleAirPodsTableViewCell.xib; sourceTree = SOURCE_ROOT; };
-		54B269A0248FBBDA00B3DD9E /* UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImage.swift; sourceTree = "<group>"; };
 		54B269A3248FC4D000B3DD9E /* 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 3.gif; sourceTree = "<group>"; };
 		54B269A4248FC4D000B3DD9E /* 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 2.gif; sourceTree = "<group>"; };
 		54B269A5248FC4D000B3DD9E /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
@@ -111,7 +108,6 @@
 				54B2698B248F6D0700B3DD9E /* Assets.xcassets */,
 				54B2698D248F6D0700B3DD9E /* LaunchScreen.storyboard */,
 				54B26990248F6D0700B3DD9E /* Info.plist */,
-				54B269A0248FBBDA00B3DD9E /* UIImage.swift */,
 			);
 			path = BottomPopUpViewExamples;
 			sourceTree = "<group>";
@@ -263,7 +259,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				54B2697B248F5BB300B3DD9E /* BottomPopUpView.swift in Sources */,
-				54B269A92490A6E800B3DD9E /* UIImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,7 +269,6 @@
 				54B26997248FA07F00B3DD9E /* ExampleUITableViewCell.swift in Sources */,
 				54B2699E248FA9C300B3DD9E /* ExampleAirPodsTableViewCell.swift in Sources */,
 				54B26987248F6D0600B3DD9E /* ViewController.swift in Sources */,
-				54B269A1248FBBDA00B3DD9E /* UIImage.swift in Sources */,
 				54B26983248F6D0600B3DD9E /* AppDelegate.swift in Sources */,
 				54B26985248F6D0600B3DD9E /* SceneDelegate.swift in Sources */,
 			);
