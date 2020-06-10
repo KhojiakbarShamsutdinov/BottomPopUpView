@@ -12,11 +12,12 @@ class ExampleAirPodsTableViewCell: UITableViewCell {
 
     override func awakeFromNib() {
         super.awakeFromNib()
-        let jeremyGif = UIImage.gifImageWithName("airPods")
-        let imageView = UIImageView(image: jeremyGif)
-        imageView.frame = CGRect(x: 30, y: 0, width: self.contentView.frame.size.width - 100, height: 300)
-        contentView.addSubview(imageView)
-        // Initialization code
+        /* UNCOMMENT */
+       /// let jeremyGif = UIImage.gifImageWithName("airPods")
+       /// let imageView = UIImageView(image: jeremyGif)
+       /// imageView.frame = CGRect(x: 30, y: 0, width: self.contentView.frame.size.width - 100, height: 300)
+       /// contentView.addSubview(imageView)
+       
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
