@@ -10,6 +10,15 @@ A CocoaPods library written in Swift
 <br><br>
 Must have and easy to use library.
 
+<br><br>
+
+<h1> Installation </h1>
+       
+       target 'MyApp' do 
+          pod 'BottomPopUpView', '~> 0.0'
+       end
+
+
 <h1> Usage </h1>
 <h3> In Your VC Add the following: </h3>
 
